@@ -18,4 +18,4 @@ This program patches the ui.par file to remove letterboxing.
 # Credits
 - https://github.com/jmacd/xdelta
 - https://github.com/SlowpokeVG/PARC-Archive-Importer
-- https://steamcommunity.com/sharedfiles/filedetails/?id=173686422
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1736864221
