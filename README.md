@@ -14,5 +14,5 @@ This program patches the ui.par file to remove letterboxing.
 - This removes bars completely potentially revealing things that you weren't supposed to see.
 
 # Credits
-https://github.com/SlowpokeVG/PARC-Archive-Importer
-https://steamcommunity.com/sharedfiles/filedetails/?id=173686422
+- https://github.com/SlowpokeVG/PARC-Archive-Importer
+- https://steamcommunity.com/sharedfiles/filedetails/?id=173686422
