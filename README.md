@@ -2,7 +2,7 @@
 
 This program patches the ui.par file to remove letterboxing.
 
-# 📝 Steps:
+# Steps:
 - Download [YakuzaPatcher.zip](https://github.com/zypnyx/YakuzaKiwami2NoBorderPatcher/releases/download/1.0/YakuzaPatcher.zip)
 - Extract it.
 - Run the YakuzaPatcher.exe
@@ -12,7 +12,7 @@ This program patches the ui.par file to remove letterboxing.
 - Copy the new ui.par file to \Yakuza Kiwami 2\data (overwrite if necessary).
 - Done
 
-# ⚠ Note:
+# Note:
 - This removes bars completely potentially revealing things that you weren't supposed to see.
 
 # Credits:
