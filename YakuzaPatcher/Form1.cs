@@ -77,7 +77,7 @@ namespace YakuzaPatcher
         {
             if(!String.IsNullOrEmpty(FileName))
             { 
-                String command = "-d -f -s \"" + FileName + "\" nobars-v_1_3 ui.par";
+                String command = "-d -f -s \"" + FileName + "\" nobars-v_1_4 ui.par";
                 ProcessStartInfo procStartInfo = new ProcessStartInfo("xdelta3.exe", command);
 
                 procStartInfo.RedirectStandardError = true;
